@@ -30,4 +30,7 @@ public class Field extends JPanel {
     public int getFieldY() {
         return y;
     }
+    public int getFieldX() {
+        return x;
+    }
 }
